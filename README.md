@@ -25,7 +25,7 @@ Tu connais pas la nouvelle ? Tu te rappelles le responsable commercial de ton re
 
 Vous décidez alors, avec l’équipe, que le site contiendra 4 menus dans un premier temps. Voici le [brief](docs/specifications.pdf) que vous établissez avec le CTO, Paul.
 
-De retour à votre bureau, vous trouvez un mail de Fanny qui vous envoie les [maquettes](docs/mockup.zip) du site.
+De retour à votre bureau, vous trouvez un mail de Fanny qui vous envoie les [maquettes](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P3/Maquettes%20Ohmyfood.zip) du site.
 
 ![Ohmyfood mockup](docs/ohmyfoodmockup.jpg)
 
